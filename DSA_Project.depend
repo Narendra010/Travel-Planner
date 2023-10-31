@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1695288097 source:d:\dsa\dsa_project\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<limits>
+	<string>
+	<map>
+	<set>
+
